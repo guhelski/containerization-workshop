@@ -3,7 +3,6 @@
 Instructions and assignments for the containerization workshop.
 
 # Requirements:
-
 - 4GB free RAM (for DC/OS)
 - Git
 - A Github account
